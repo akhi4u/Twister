@@ -1,2 +1,2 @@
 # Twister
-Twisting Explorer
+Twisting Explorer Redesigned
